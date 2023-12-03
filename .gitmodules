@@ -1,0 +1,3 @@
+[submodule "my-ts-react-test"]
+	path = my-ts-react-test
+	url = https://github.com/adamg-ht135/react-typescript-practice
